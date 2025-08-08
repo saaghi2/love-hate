@@ -90,7 +90,6 @@ img {
 
 footer {
   margin-top: 2rem;
-  padding-top: 1rem;
   border-top: 1px solid #ddd;
   text-align: center;
   font-size: 0.9rem;
@@ -100,7 +99,7 @@ footer {
 .border {
   border-bottom: .1rem solid #ddd;
   padding: 0.2rem;
-  margin: 1rem 0;
+  margin-bottom: 1rem;
 }
 
 .small-border {
