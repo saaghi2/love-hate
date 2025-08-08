@@ -50,7 +50,7 @@ h3 {
 
 /* Paragraphs */
 p {
-  margin: 1rem 0;
+  margin-bottom: 1rem;
   margin-left: 1rem;
   text-align: justify;
 }
@@ -90,6 +90,7 @@ img {
 
 footer {
   margin-top: 2rem;
+  padding-top: 1rem;
   border-top: 1px solid #ddd;
   text-align: center;
   font-size: 0.9rem;
@@ -108,7 +109,7 @@ footer {
 }
 
 .inner-header {
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.7rem;
 }
 
 /* Responsive Design */
